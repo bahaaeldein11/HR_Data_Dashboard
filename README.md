@@ -1,5 +1,5 @@
 # HR_Data_Dashboard
-The objective of this project is to leverage HR data to gain valuable insights that can improve decision-making processes in areas such as employee performance, retention, hiring, and overall workforce management. The analysis will focus on identifying patterns, trends, and correlations within the data that help HR professionals  optimize strategies for recruitment, training, employee engagement, and retention. <br>
+The objective of this project is to leverage HR data to gain valuable insights that can improve decision-making processes in areas such as employee performance, retention, hiring, and overall workforce management. The analysis will focus on identifying patterns, trends, and correlations within the data that help HR professionals  optimize strategies for recruitment, training, employee engagement, and retention. <br> <br>
 Scope: The project will involve the analysis of various HR datasets, including but not limited to:<br>
 1- Employee Demographics: Age, gender, education, work experience, job roles, and other demographic data to understand the workforce composition.<br>
 2- Employee Performance: Metrics related to individual or team performance, including KPIs, appraisals, and goals. <br>
