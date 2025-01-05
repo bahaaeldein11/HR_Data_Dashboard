@@ -24,3 +24,7 @@ Questions:
 - Avg. Salary with mixed or multiple ethintic group?
 - What are your team recommendations, based on your analysis 
 - Comment on the satisfaction Rates
+
+
+
+<iframe title="ALX_camp" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTBjNDM3YWItZmQwNC00MmE5LThmMzgtMWE0OTY0ZjZiNDkxIiwidCI6ImMwZmFkZjg5LWRmZjEtNDY3Ni1hZDY0LTAzMjExNTUyNjEwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
