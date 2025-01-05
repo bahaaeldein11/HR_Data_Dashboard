@@ -14,3 +14,13 @@ datasets-used
 3- <a href="https://github.com/bahaaeldein11/HR_Data_Dashboard/blob/main/PerformanceRating.csv"> Performance_Rating </a>
 4- <a href="https://github.com/bahaaeldein11/HR_Data_Dashboard/blob/main/RatingLevel.csv"> Rating_levels </a>
 5  <a href="https://github.com/bahaaeldein11/HR_Data_Dashboard/blob/main/SatisfiedLevel.csv"> Satisfied_level </a>
+<br>
+Questions:
+- 2021 No. Employees
+- What is the type of the company and explain?
+- The most popular job in technology department ?
+- Attrition rate? 
+- Active female Hierarchy 
+- Avg. Salary with mixed or multiple ethintic group?
+- What are your team recommendations, based on your analysis 
+- Comment on the satisfaction Rates
