@@ -27,4 +27,4 @@ Questions:
 
 
 
-<iframe title="ALX_camp" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNTBjNDM3YWItZmQwNC00MmE5LThmMzgtMWE0OTY0ZjZiNDkxIiwidCI6ImMwZmFkZjg5LWRmZjEtNDY3Ni1hZDY0LTAzMjExNTUyNjEwYSJ9" frameborder="0" allowFullScreen="true"></iframe>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTBjNDM3YWItZmQwNC00MmE5LThmMzgtMWE0OTY0ZjZiNDkxIiwidCI6ImMwZmFkZjg5LWRmZjEtNDY3Ni1hZDY0LTAzMjExNTUyNjEwYSJ9"> Report_Link </a>
