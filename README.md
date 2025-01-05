@@ -8,7 +8,7 @@ Scope: The project will involve the analysis of various HR datasets, including b
 5- Training and Development: Information about employee training programs, participation rates, and the correlation between training efforts and performance improvement.
 6- Employee Satisfaction and Engagement: Survey data and feedback to understand employee satisfaction, engagement, and the impact of organizational culture.
 
-datasets-used
+datasets-used <br>
 1- <a href="https://github.com/bahaaeldein11/HR_Data_Dashboard/blob/main/EducationLevel.csv"> Education_level </a>
 2-  <a href="https://github.com/bahaaeldein11/HR_Data_Dashboard/blob/main/Employee.csv"> Employees </a>
 3- <a href="https://github.com/bahaaeldein11/HR_Data_Dashboard/blob/main/PerformanceRating.csv"> Performance_Rating </a>
